@@ -1,3 +1,5 @@
+# スタックを用いた四則演算
+
 s = input().split()
 
 stack = []
